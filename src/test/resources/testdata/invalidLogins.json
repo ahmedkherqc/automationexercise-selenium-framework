@@ -1,0 +1,4 @@
+[
+  { "email": "no.such.user.qa@example.com", "password": "WrongPass123" },
+  { "email": "invalid.login.qa@example.com", "password": "123456" }
+]
